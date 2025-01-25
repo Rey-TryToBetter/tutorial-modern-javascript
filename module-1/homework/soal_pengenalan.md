@@ -7,12 +7,16 @@
 - c. Bahasa pemrograman untuk mengatur database  
 - d. Bahasa pemrograman untuk membuat aplikasi desktop
 
+- Jawaban : b
+
 ## 2. Fungsi Utama JavaScript
 **Apa saja fungsi utama dari JavaScript?**  
 - a. Dinamis, Interaktif, dan Versatil  
 - b. Statis, Lambat, dan Sulit Dipelajari  
 - c. Hanya untuk Front-End  
 - d. Hanya untuk Back-End
+
+- Jawaban : a
 
 ## 3. Sejarah JavaScript
 **Siapakah pencipta JavaScript dan pada tahun berapa diciptakan?**  
@@ -21,12 +25,16 @@
 - c. James Gosling, 1991  
 - d. Bjarne Stroustrup, 1983
 
+- Jawaban : a
+
 ## 4. Evolusi Nama JavaScript
 **Apa nama awal dari JavaScript sebelum menjadi nama saat ini?**  
 - a. Mocha  
 - b. LiveScript  
 - c. JavaScript  
 - d. Mocha dan LiveScript
+
+- Jawaban : d
 
 ## 5. Adopsi JavaScript oleh Browser
 **Pada tahun berapa JavaScript diadopsi oleh Netscape Navigator dan Internet Explorer?**  
@@ -35,12 +43,16 @@
 - c. 1997  
 - d. 1998
 
+- Jawaban : b
+
 ## 6. Standarisasi JavaScript
 **Apa nama standar JavaScript yang diciptakan pada tahun 1997?**  
 - a. ECMAScript  
 - b. JScript  
 - c. TypeScript  
 - d. JavaScript Standard
+
+- Jawaban : a
 
 ## 7. Versi ECMAScript
 **Kapan ECMAScript 6 (ES6) dirilis dan sebutkan beberapa fitur baru yang diperkenalkan?**  
@@ -49,12 +61,16 @@
 - c. 2005, Async/Await  
 - d. 2018, Modules dan Imports
 
+- Jawaban : b
+
 ## 8. JavaScript di Server
 **Teknologi apa yang memungkinkan JavaScript digunakan di sisi server?**  
 - a. React.js  
 - b. Angular  
 - c. Node.js  
 - d. Vue.js
+
+- Jawaban : c
 
 ## 9. Mesin JavaScript
 **Setiap browser memiliki mesin JavaScript untuk mengeksekusi kode. Contoh mesin JavaScript di Chrome adalah?**  
@@ -63,12 +79,16 @@
 - c. Chakra  
 - d. Nitro
 
+- Jawaban : a
+
 ## 10. Langkah Kerja JavaScript - Parsing
 **Apa yang dilakukan oleh browser pada tahap parsing dalam langkah kerja JavaScript?**  
 - a. Menjalankan kode JavaScript  
 - b. Membaca HTML dan membentuk DOM  
 - c. Menangani event secara asinkron  
 - d. Memuat ulang halaman web
+
+- Jawaban : b
 
 ## 11. Langkah Kerja JavaScript - Event Loop
 **Bagaimana JavaScript menangani event secara asinkron tanpa memblokir eksekusi kode lainnya?**  
@@ -77,9 +97,13 @@
 - c. Dengan memuat ulang halaman  
 - d. Melalui Callback
 
+- Jawaban :b
+
 ## 12. Contoh Sederhana Penggunaan JavaScript
 **Bagaimana script sederhana di HTML dapat mengubah konten atau gaya elemen di halaman web?**  
 - a. Dengan mengubah file CSS  
 - b. Dengan menggunakan SQL  
 - c. Dengan menulis kode JavaScript yang memanipulasi DOM  
 - d. Dengan mengatur server
+
+- Jawaban : c
